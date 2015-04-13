@@ -1,0 +1,13 @@
+{
+  "title": "rect",
+  "name": "rect",
+  "version": "0.0.1",
+  "description": "handless browsing",
+  "main": "index.js",
+  "author": "samzhang111",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}

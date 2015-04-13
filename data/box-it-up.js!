@@ -1,0 +1,40 @@
+(function (){
+
+    document.addEventListener("DOMContentLoaded", function(event) {
+        // Split screen into several panes
+        window.onkeypress = keypress_handler;
+
+        document.style.border = "5px";
+    });
+
+    function keypress_handler (e) {
+    }
+
+    // Event listener for keypress: switch active pane
+    function switchActivePane(pane) {
+    }
+
+    // Draw borders around items in active pane
+    function showBorders(pane) {
+        // remove active pane emphasis
+        // add emphasis on active pane
+    }
+    
+    // Hide borders in pane
+    function hideBorders(pane) {
+    }
+
+    // Initialize a pane box
+    function initPaneBox(dims) {
+    }
+    
+    // Show panes
+    function showPanes() {
+    }
+
+    // Hide panes
+    function hidePanes() {
+    }
+    // Event listener for keypress: display elems in active pane
+    // Event listener for keypress: 
+})();
